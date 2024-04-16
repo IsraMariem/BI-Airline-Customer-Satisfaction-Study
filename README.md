@@ -9,3 +9,5 @@ parameters, we enable airlines to tailor their services for exceptional passenge
 2.Improvement Focus:Beyond predictions, we identify critical areas within airline services that demand attention. By analyzing factors such as travel type, class, seat comfort, 
 flight distance, and delays, we empower airlines to strategically enhance the passenger journey and overall satisfaction.
 
+![image](https://github.com/hyba-ab/BI_project/assets/141513209/79f94e40-dd40-4e6c-bb78-6ae49ae2c933)
+
